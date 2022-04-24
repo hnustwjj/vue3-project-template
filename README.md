@@ -1,4 +1,4 @@
-## vue3-project-template
+# vue3-project-template
 
 a vue3-project-template includes some plugins and surpport auto-import by vite.
 
